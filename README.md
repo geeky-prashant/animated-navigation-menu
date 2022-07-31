@@ -9,7 +9,7 @@
 
   <h2 align="center">Animated Navigation Menu</h2>
 
-  In this project, I have created an animated navigation menu bar that displays some animation on hover, <br />The project is built using HTML5 & CSS3.
+  In this project, I have created an animated navigation menu bar that displays some animation on hover, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/animated-navigation-menu/"><strong>➥ Live Demo</strong></a>
 
